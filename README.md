@@ -5,3 +5,5 @@ bind z "+jumpaction;+throwaction;"
 bind "mouse5" "use weapon_flashbang"
 bind "mwheelup" +attack;
 bind "mwheeldown" +attack;
+
+ABRACADABRA
